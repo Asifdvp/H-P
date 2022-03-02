@@ -3,11 +3,10 @@
     padding: 0;
 }
 div{
-    width: 300px;
-    height: 300px;
+    width: 600px;
+    height: 600px;
     margin: 0 auto;
-    border-radius: 50%;
-    background-color: cyan;
+    background-color: teal;
     color: white;
     font-weight: bold;
 }
